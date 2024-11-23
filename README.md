@@ -1,13 +1,15 @@
 \
-![Taru](src/assets/images/title.png)
+<div align="center">
+  <img src="src/assets/images/title.png" alt="Taru">
+</div>
 
 <h4 align="center">Hey! I am very difficult to catch, did you know that?</h4>
 
-<p align="center">
+<div align="center">
   <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
   <a href="#license">License</a>
-</p>
+</div>
 
 ## Download
 
