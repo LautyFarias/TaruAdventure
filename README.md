@@ -1,4 +1,4 @@
-\
+<br>
 <div align="center">
   <img src="src/assets/images/title.png" alt="Taru">
 </div>
